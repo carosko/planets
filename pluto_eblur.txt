@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+It's totally a planet!
+=======
+It is so a planet!
+>>>>>>> ffabe9669049ba225aac3eb4b41c1201effca3c8
